@@ -1,0 +1,12 @@
+{
+  "name": "tensorflow-js",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/killi8n/tensorflow-js",
+  "author": "killi8n <evals4dead@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "@tensorflow/tfjs": "^1.0.4",
+    "@tensorflow/tfjs-node": "^1.0.3"
+  }
+}
